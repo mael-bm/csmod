@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "csmod:blocks/mistik_planks",
+    "particle": "csmod:blocks/mistik_planks"
+  }
+}

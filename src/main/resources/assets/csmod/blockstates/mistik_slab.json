@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "csmod:block/mistik_slab"
+    },
+    "type=top": {
+      "model": "csmod:block/mistik_slab_top"
+    },
+    "type=double": {
+      "model": "csmod:block/mistik_slab_full"
+    }
+  }
+}

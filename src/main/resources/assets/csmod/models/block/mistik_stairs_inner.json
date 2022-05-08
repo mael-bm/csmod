@@ -1,0 +1,8 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "csmod:blocks/mistik_planks",
+    "top": "csmod:blocks/mistik_planks",
+    "side": "csmod:blocks/mistik_planks"
+  }
+}

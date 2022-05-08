@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "csmod:mistik_log"
+    },
+    "1": {
+      "item": "csmod:mistik_log"
+    },
+    "2": {
+      "item": "csmod:mistik_log"
+    },
+    "3": {
+      "item": "csmod:mistik_log"
+    }
+  },
+  "result": {
+    "item": "csmod:mistik_wood",
+    "count": 3
+  }
+}

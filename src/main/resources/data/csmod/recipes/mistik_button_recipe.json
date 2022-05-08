@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "csmod:mistik_planks"
+    }
+  ],
+  "result": {
+    "item": "csmod:mistik_button",
+    "count": 1
+  }
+}

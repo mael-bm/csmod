@@ -1,1 +1,13 @@
-{}
+{
+  "block.csmod.mistik_wood": "Mistik Wood",
+  "block.csmod.mistik_pressure_plate": "Mistik Pressure Plate",
+  "biome.csmod.mistik_biome": "Mistik Biome",
+  "block.csmod.mistik_fence_gate": "Mistik Fence Gate",
+  "block.csmod.mistik_log": "Mistik Log",
+  "block.csmod.mistik_stairs": "Mistik Stairs",
+  "block.csmod.mistik_planks": "Mistik Planks",
+  "block.csmod.mistik_leaves": "Mistik Leaves",
+  "block.csmod.mistik_slab": "Mistik Slab",
+  "block.csmod.mistik_fence": "Mistik Fence",
+  "block.csmod.mistik_button": "Mistik Button"
+}

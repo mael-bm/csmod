@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "csmod:mistik_planks"
+    },
+    "1": {
+      "item": "csmod:mistik_planks"
+    },
+    "2": {
+      "item": "csmod:mistik_planks"
+    }
+  },
+  "result": {
+    "item": "csmod:mistik_slab",
+    "count": 6
+  }
+}

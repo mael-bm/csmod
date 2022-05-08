@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:mistik_log"
+    }
+  ],
+  "result": {
+    "item": "csmod:mistik_planks",
+    "count": 4
+  }
+}
