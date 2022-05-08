@@ -26,9 +26,6 @@ import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.network.FriendlyByteBuf;
 
-import mbm.csmod.init.CsmodModItems;
-import mbm.csmod.init.CsmodModBlocks;
-
 import java.util.function.Supplier;
 import java.util.function.Function;
 import java.util.function.BiConsumer;
@@ -45,8 +42,6 @@ public class CsmodMod {
 	public CsmodMod() {
 
 		IEventBus bus = FMLJavaModLoadingContext.get().getModEventBus();
-		CsmodModBlocks.REGISTRY.register(bus);
-		CsmodModItems.REGISTRY.register(bus);
 
 	}
 
