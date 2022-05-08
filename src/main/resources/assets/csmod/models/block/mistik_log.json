@@ -3,10 +3,10 @@
   "textures": {
     "down": "csmod:blocks/mistik_log_top",
     "up": "csmod:blocks/mistik_log_top",
-    "north": "csmod:blocks/mistik_log_side",
-    "east": "csmod:blocks/mistik_log_side",
-    "south": "csmod:blocks/mistik_log_side",
-    "west": "csmod:blocks/mistik_log_side",
+    "north": "csmod:blocks/mistik_log",
+    "east": "csmod:blocks/mistik_log",
+    "south": "csmod:blocks/mistik_log",
+    "west": "csmod:blocks/mistik_log",
     "particle": "csmod:blocks/mistik_log_top"
   }
 }
